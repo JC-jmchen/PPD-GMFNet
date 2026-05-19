@@ -26,4 +26,4 @@ with the following subject line format:
 
 ## Citation
 
-If you use this code or the pre-trained weights in your research, please consider citing our work.
+If you use this code or data in your research, please consider citing our work.
