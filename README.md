@@ -20,7 +20,7 @@ To request access to the data, please send an email to:
 
 with the following subject line format:
 
-> PPG TF-rUnet SSL weight - [Full Name] - [Institution]
+> PPDGMFNet - Data - [Full Name] - [Institution]
 
 **Note:** Please replace `[Full Name]` with your actual full name and `[Institution]` with your affiliated institution.
 
